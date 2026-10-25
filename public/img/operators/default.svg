@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 420" role="img" aria-label="Gambar operator tidak tersedia">
+    <rect width="300" height="420" fill="#0b0d0f"/>
+    <path d="M0 0h300v420H0z" fill="none" stroke="#232a30"/>
+    <g fill="#1b2228">
+        <circle cx="150" cy="150" r="52"/>
+        <path d="M62 420c0-58 39-105 88-105s88 47 88 105z"/>
+    </g>
+    <path d="M42 34h62M42 34v14M258 386h-62M258 386v-14" stroke="#3a444d" stroke-width="2"/>
+    <text x="150" y="250" text-anchor="middle" font-family="Consolas, monospace" font-size="12" letter-spacing="4" fill="#59636c">NO SIGNAL</text>
+    <text x="150" y="270" text-anchor="middle" font-family="Consolas, monospace" font-size="9" letter-spacing="2" fill="#3a444d">ARCHIVE IMAGE</text>
+</svg>
